@@ -1,0 +1,21 @@
+/* styles.css */
+.my-card {
+    width: 200px;
+    height: 300px;
+    min-height: 100%;
+  }
+  
+  .my-card-img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+
+  .row-gap-2{
+    row-gap: 2rem !important;
+  }
+
+  .mh-100{
+    min-height:100%
+  }
+  
